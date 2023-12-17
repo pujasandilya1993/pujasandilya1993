@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pujasandilya1993
+- 👋 Hi, I’m Puja
 - 👀 I’m interested in ...Data Analysis
 - 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...creating project
